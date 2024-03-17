@@ -6,13 +6,9 @@ The app is deployed on Vercel and can be accessed using the following link:
 
 https://keeper-app-seven-hazel.vercel.app/
 
-<!-- import image from \static folder -->
-
-<!-- <src img=".\static\keeper-app.png" alt="keeper-app" width="500px" height="300px"> -->
 <p align="center">
   <img src="./static/keeper-app.png" alt="keeper-app" width="500px"/>
 </p>
-
 
 ## Installation
 To install the app, clone the repository and run the following command in the root directory of the project:
