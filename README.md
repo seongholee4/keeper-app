@@ -24,3 +24,24 @@ npm install
 npm start
 ```
 3. The app will be running on http://localhost:3000
+
+## Features
+1. Add a note
+2. Delete a note
+3. View all notes
+
+## Technologies
+- React
+- HTML/CSS
+
+## Future Improvements
+- Add the ability to edit notes
+- Add the ability to categorize notes
+- Add user authentication
+- Add a database to store notes
+- Add the ability to share notes with other users
+- Add the ability to search for notes
+- Add the ability to add images to notes
+- Add the ability to add reminders to notes
+- Add the ability to add tags to notes
+- Add the ability to add links to notes
